@@ -1,6 +1,6 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-10-23T10:08:45+00:00",
+  "updated_at": "2026-10-23T11:50:38+00:00",
   "editions": [
     {
       "nn_broj": "NN 120/2026",
@@ -146,6 +146,54 @@
           "naslov": "Rješenje kojim se Klinika za neurologiju Kliničke bolnice Dubrava određuje Referentnim centrom  Ministarstva zdravstva za predoperativnu obradu bolesnika s farmakorezistentnom epilepsijom",
           "vrsta": "RJEŠENJE",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1409"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1405.md",
+          "naslov": "Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1405"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1407.md",
+          "naslov": "Odluka o usvajanju Izmjena i dopune Programa potpore Hrvatima u Bosni i Hercegovini u svrhu poticanja gospodarskog razvoja lokalne zajednice za razdoblje 2025. - 2027.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1407"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1408.md",
+          "naslov": "Pravilnik o financijskom poticaju razvoju i proizvodnji hrvatskih audiovizualnih djela producenata koji se smatraju neovisnim proizvođačima",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1408"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1410.md",
+          "naslov": "Indeks potrošačkih cijena u rujnu 2026.",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1410"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1411.md",
+          "naslov": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Sinja",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1411"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1412.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-188/2025-12 od 30. rujna 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1412"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1413.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-28/2026-10 od 30. rujna 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1413"
+        },
+        {
+          "file": "zakoni/2026/NN-118-1414.md",
+          "naslov": "Ispravak Statuta Turističke zajednice Međimurske županije",
+          "vrsta": "STATUT",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/118/1414"
         }
       ]
     },
@@ -189,6 +237,133 @@
           "naslov": "Obvezatne upute broj MLN IV o imenovanju članova biračkih odbora za provedbu prijevremenih izbora za zamjenika župana Sisačko-moslavačke županije iz reda pripadnika srpske nacionalne manjine",
           "vrsta": "UPUTA",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1400"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1391.md",
+          "naslov": "Odluka o raspisivanju prijevremenih izbora za zamjenika župana Sisačko-moslavačke županije iz reda pripadnika srpske nacionalne manjine",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1391"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1393.md",
+          "naslov": "Pravilnik o izradi programa priuštivog stanovanja",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1393"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1395.md",
+          "naslov": "Rješenje kojim se Klinika za očne bolesti Kliničkog bolničkog centra Zagreb određuje Referentnim centrom Ministarstva zdravstva za transplantaciju rožnice",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1395"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1396.md",
+          "naslov": "Indeks proizvođačkih cijena industrijskih proizvoda na domaćem tržištu u rujnu 2026.",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1396"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1401.md",
+          "naslov": "Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1401"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1402.md",
+          "naslov": "Plan dodjele za frekvencijski pojas 3800 – 4200 MHz",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1402"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1403.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-9/2024-8 od 30. rujna 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1403"
+        },
+        {
+          "file": "zakoni/2026/NN-117-1404.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-148/2024-11 od 30. rujna 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/117/1404"
+        }
+      ]
+    },
+    {
+      "nn_broj": "NN 116/2026",
+      "datum_objave": "2026-10-12",
+      "added_at": "2026-10-23T11:50:38+00:00",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-116-1379.md",
+          "naslov": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1379"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1380.md",
+          "naslov": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1380"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1381.md",
+          "naslov": "Odluka o utvrđivanju sastava Urbane aglomeracije Zagreb",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1381"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1382.md",
+          "naslov": "Odluka o utvrđivanju sastava Većeg urbanog područja Velika Gorica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1382"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1383.md",
+          "naslov": "Rješenje o razrješenju i imenovanju dijela članova Vijeća za domovinski pijetet, mir i razvoj",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1383"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1384.md",
+          "naslov": "Rješenje o razrješenju glavne tajnice Ministarstva vanjskih i europskih poslova",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1384"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1385.md",
+          "naslov": "Rješenje o razrješenju i imenovanju člana Upravnog vijeća Lučke uprave Šibenik",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1385"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1386.md",
+          "naslov": "Rješenje o razrješenju i imenovanju dijela članova Upravnog vijeća Hrvatskoga zavoda za socijalni rad",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1386"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1387.md",
+          "naslov": "Rješenje o razrješenju i imenovanju članice Povjerenstva za rješavanje odštetnih zahtjeva radnika oboljelih od profesionalne bolesti zbog izloženosti azbestu",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1387"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1388.md",
+          "naslov": "Pravilnik o izmjenama i dopunama Pravilnika o postupanju prema državljanima trećih zemalja",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1388"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1389.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-96/2026 od 9. rujna 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1389"
+        },
+        {
+          "file": "zakoni/2026/NN-116-1390.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-1616/2025, U-IIIA-4115/2025 od 16. rujna 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1390"
         }
       ]
     },
@@ -239,6 +414,42 @@
           "naslov": "Zakon o provedbi Uredbe (EU) 2024/1781 Europskog parlamenta i Vijeća od 13. lipnja 2024. o uspostavi okvira za utvrđivanje zahtjeva za ekološki dizajn održivih proizvoda, izmjeni Direktive (EU) 2020/1828 i Uredbe (EU) 2023/1542 te stavljanju izvan snage Direktive 2009/125/EZ",
           "vrsta": "ZAKON",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/114/1368"
+        },
+        {
+          "file": "zakoni/2026/NN-114-1367.md",
+          "naslov": "Zakon o istraživanju i eksploataciji energetskih georesursa",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/114/1367"
+        },
+        {
+          "file": "zakoni/2026/NN-114-1369.md",
+          "naslov": "Zakon o izmjenama i dopunama Zakona o tržištu električne energije",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/114/1369"
+        },
+        {
+          "file": "zakoni/2026/NN-114-1370.md",
+          "naslov": "Zakon o izmjenama i dopunama Zakona o obrtu",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/114/1370"
+        },
+        {
+          "file": "zakoni/2026/NN-114-1371.md",
+          "naslov": "Zakon o izmjenama i dopunama Zakona o zahtjevima za pristupačnost proizvoda i usluga",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/114/1371"
+        },
+        {
+          "file": "zakoni/2026/NN-114-1372.md",
+          "naslov": "Pravilnik o sustavima za opskrbu vozila stlačenim plinovitim vodikom",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/114/1372"
+        },
+        {
+          "file": "zakoni/2026/NN-114-1373.md",
+          "naslov": "Pravilnik o provedbi Programa kompenzacijske mjere potpore depopuliranim područjima za 2026. godinu",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/114/1373"
         }
       ]
     },
@@ -252,6 +463,96 @@
           "naslov": "Rješenje o razrješenju i imenovanju supredsjedatelja Zajedničkog povjerenstva za provedbu i promicanje gospodarske suradnje između Vlade Republike Hrvatske i Vlade Republike Azerbajdžana",
           "vrsta": "RJEŠENJE",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1366"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1351.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda Nikole Šubića Zrinskog, za junaštvo pripadnika policijskih postaja u Domovinskom ratu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1351"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1352.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda bana Jelačića, za sveukupni doprinos u obrani suvereniteta Republike Hrvatske",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1352"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1353.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog križa Ivici (Jozo) Anđeliću",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1353"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1354.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog trolista, za osobite zasluge pripadnika policijske jedinice za posebne namjene u Domovinskom ratu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1354"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1355.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog trolista, za osobite zasluge za Republiku Hrvatsku stečene u ratu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1355"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1356.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog pletera, za osobiti doprinos razvitku i ugledu Republike Hrvatske i dobrobiti njezinih građana",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1356"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1357.md",
+          "naslov": "Odluka o dodjeli odlikovanja Spomenica domovinskog rata, za sudjelovanje u Domovinskom ratu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1357"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1358.md",
+          "naslov": "Odluka o dodjeli odlikovanja Spomenica domovinske zahvalnosti, za časnu i uzornu službu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1358"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1359.md",
+          "naslov": "Odluka o dodjeli medalje »Oluja«",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1359"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1360.md",
+          "naslov": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1360"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1361.md",
+          "naslov": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1361"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1362.md",
+          "naslov": "Rješenje o razrješenju direktora Fonda za zaštitu okoliša i energetsku učinkovitost",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1362"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1363.md",
+          "naslov": "Rješenje o razrješenju zamjenika direktora Fonda za zaštitu okoliša i energetsku učinkovitost",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1363"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1364.md",
+          "naslov": "Rješenje o imenovanju vršitelja dužnosti direktora Fonda za zaštitu okoliša i energetsku učinkovitost",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1364"
+        },
+        {
+          "file": "zakoni/2026/NN-113-1365.md",
+          "naslov": "Rješenje o imenovanju vršitelja dužnosti zamjenika direktora Fonda za zaštitu okoliša i energetsku učinkovitost",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1365"
         }
       ]
     },
@@ -271,6 +572,211 @@
           "naslov": "Odluka o izmjenama i dopunama Odluke o izmjeni odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luka posebne namjene – luka nautičkog turizma Pula, Rab, Šimuni, Žut, Skradin, Trogir, Milna, Vrboska, Palmižana, Piškera i Korčula",
           "vrsta": "ODLUKA",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1348"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1322.md",
+          "naslov": "Odluka o razrješenju i imenovanju zamjenice tajnika Hrvatskoga sabora i tajnice sjednice Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1322"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1323.md",
+          "naslov": "Odluka o razrješenju potpredsjednika i izboru potpredsjednice, razrješenju i izboru članice Odbora za zakonodavstvo Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1323"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1324.md",
+          "naslov": "Odluka o razrješenju članice i izboru člana Odbora za gospodarstvo Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1324"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1325.md",
+          "naslov": "Odluka o razrješenju i izboru člana Odbora za turizam Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1325"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1326.md",
+          "naslov": "Odluka o razrješenju potpredsjednice i izboru potpredsjednika, razrješenju člana i izboru članice Odbora za ljudska prava i prava nacionalnih manjina Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1326"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1327.md",
+          "naslov": "Odluka o razrješenju i izboru članice Odbora za pravosuđe Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1327"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1328.md",
+          "naslov": "Odluka o izboru člana i prestanku mandata člana Odbora za rad, mirovinski sustav i socijalno partnerstvo Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1328"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1329.md",
+          "naslov": "Odluka o razrješenju i izboru člana Odbora za prostorno uređenje i graditeljstvo Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1329"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1330.md",
+          "naslov": "Odluka o razrješenju člana i izboru članice Odbora za zaštitu okoliša i prirode Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1330"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1331.md",
+          "naslov": "Odluka o izboru članova i prestanku mandata članova Odbora za izbor, imenovanja i upravne poslove Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1331"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1332.md",
+          "naslov": "Odluka o razrješenju i izboru člana Mandatno-imunitetnog povjerenstva Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1332"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1333.md",
+          "naslov": "Odluka o imenovanju zamjenice člana i prestanku mandata zamjenice člana Izaslanstva Hrvatskoga sabora u Parlamentarnoj skupštini SEECP-a",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1333"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1335.md",
+          "naslov": "Odluka o imenovanju predsjednice Povjerenstva za fiskalnu politiku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1335"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1336.md",
+          "naslov": "Odluka o razrješenju predsjednice Vijeća za zaštitu tržišnog natjecanja",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1336"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1337.md",
+          "naslov": "Odluka o imenovanju predsjednice Vijeća za zaštitu tržišnog natjecanja",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1337"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1338.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Umag",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1338"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1339.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Rovinj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1339"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1340.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Pomer",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1340"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1341.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Opatija",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1341"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1342.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Cres",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1342"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1343.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Supetarska Draga",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1343"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1344.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Jezera",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1344"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1345.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Vodice",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1345"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1346.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Split",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1346"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1347.md",
+          "naslov": "Odluka o izmjenama Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene – luke nautičkog turizma Dubrovnik",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1347"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1349.md",
+          "naslov": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu ostvarivanja prava na pokriće troškova prehrane studenata",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1349"
+        },
+        {
+          "file": "zakoni/2026/NN-112-1350.md",
+          "naslov": "Stopa protucikličkoga zaštitnog sloja kapitala",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/112/1350"
+        }
+      ]
+    },
+    {
+      "nn_broj": "NN 111/2026",
+      "datum_objave": "2026-09-30",
+      "added_at": "2026-10-23T11:50:38+00:00",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-111-1316.md",
+          "naslov": "Uredba o jedinstvenom sučelju za formalnosti u pomorskom prometu",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/111/1316"
+        },
+        {
+          "file": "zakoni/2026/NN-111-1317.md",
+          "naslov": "Odluka o osnivanju Vijeća za lokalni razvoj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/111/1317"
+        },
+        {
+          "file": "zakoni/2026/NN-111-1318.md",
+          "naslov": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za vozila kojima se obavlja javni cestovni prijevoz i prijevoz za vlastite potrebe",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/111/1318"
+        },
+        {
+          "file": "zakoni/2026/NN-111-1319.md",
+          "naslov": "Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/111/1319"
+        },
+        {
+          "file": "zakoni/2026/NN-111-1320.md",
+          "naslov": "Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/111/1320"
+        },
+        {
+          "file": "zakoni/2026/NN-111-1321.md",
+          "naslov": "Ispravak Odluke o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. listopada do 31. prosinca 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/111/1321"
         }
       ]
     },
@@ -394,6 +900,48 @@
           "naslov": "Pravilnik o provedbi intervencije 73.01. Neproizvodna ulaganja u poljoprivredi za prirodu i okoliš iz strateškog plana zajedničke poljoprivredne politike Republike Hrvatske 2023. – 2027.",
           "vrsta": "PRAVILNIK",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1296"
+        },
+        {
+          "file": "zakoni/2026/NN-108-1292.md",
+          "naslov": "Rješenje o razrješenju ravnatelja Uprave za multilateralu i globalna pitanja  u Ministarstvu vanjskih i europskih poslova",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1292"
+        },
+        {
+          "file": "zakoni/2026/NN-108-1293.md",
+          "naslov": "Rješenje o razrješenju člana Upravnog vijeća Agencije za ugljikovodike",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1293"
+        },
+        {
+          "file": "zakoni/2026/NN-108-1294.md",
+          "naslov": "Pravilnik o kontaktnim točkama za europsku pravosudnu mrežu u kaznenim stvarima",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1294"
+        },
+        {
+          "file": "zakoni/2026/NN-108-1297.md",
+          "naslov": "Pravilnik o provedbi Programa potpore sektoru svinjogojstva za nadoknadu gubitka uslijed naređenih mjera za suzbijanje afričke svinjske kuge do 2027. godine",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1297"
+        },
+        {
+          "file": "zakoni/2026/NN-108-1298.md",
+          "naslov": "Pravilnik o provedbi Programa državne potpore za nadoknade šteta uzrokovanih afričkom svinjskom kugom za razdoblje do 2027. godine",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1298"
+        },
+        {
+          "file": "zakoni/2026/NN-108-1299.md",
+          "naslov": "Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga",
+          "vrsta": "STATUT",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1299"
+        },
+        {
+          "file": "zakoni/2026/NN-108-1300.md",
+          "naslov": "Odluka o izmjeni odluke o naknadi za razvoj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/108/1300"
         }
       ]
     },
@@ -407,6 +955,36 @@
           "naslov": "Pravilnik o dopuni Pravilnika o primjeni Zakona o trošarinama koji se odnosi na plavi dizel za namjene u poljoprivredi, ribolovu, akvakulturi te na povrat plaćene trošarine na bezolovni motorni benzin za namjene u ribolovu",
           "vrsta": "PRAVILNIK",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/107/1286"
+        },
+        {
+          "file": "zakoni/2026/NN-107-1287.md",
+          "naslov": "Pravilnik o sokolarstvu",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/107/1287"
+        },
+        {
+          "file": "zakoni/2026/NN-107-1288.md",
+          "naslov": "Pravilnik o izmjenama Pravilnika o provedbi Programa potpore sjetvi certificiranog sjemena i sadnji certificiranih sadnica za razdoblje 2026. - 2030. godine",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/107/1288"
+        },
+        {
+          "file": "zakoni/2026/NN-107-1289.md",
+          "naslov": "Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj",
+          "vrsta": "NAREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/107/1289"
+        },
+        {
+          "file": "zakoni/2026/NN-107-1290.md",
+          "naslov": "Odluka o kriterijima kreditiranja potrošača",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/107/1290"
+        },
+        {
+          "file": "zakoni/2026/NN-107-1291.md",
+          "naslov": "Odluka o naknadi za razvoj na uslužnom području 35 društva VODOVOD OMIŠ d.o.o.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/107/1291"
         }
       ]
     },
@@ -475,6 +1053,156 @@
           "naslov": "Odluka o usvajanju Programa zajmovi za rast poljoprivredne proizvodnje u osjetljivim sektorima u okviru Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. – 2027.",
           "vrsta": "ODLUKA",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1262"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1252.md",
+          "naslov": "Odluka o prestanku zastupničkog mandata zamjenice zastupnika i početku obnašanja zastupničke dužnosti zamjenice zastupnika u Hrvatskom saboru",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1252"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1253.md",
+          "naslov": "Odluka o prestanku mirovanja zastupničkog mandata zastupnika i prestanku obnašanja zastupničke dužnosti zamjenice zastupnika u Hrvatskom saboru",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1253"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1254.md",
+          "naslov": "Odluka o izboru članice i prestanku mandata članice Odbora za zakonodavstvo Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1254"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1255.md",
+          "naslov": "Odluka o izboru člana i prestanku mandata člana Odbora za ljudska prava i prava nacionalnih manjina Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1255"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1256.md",
+          "naslov": "Odluka o izboru članice i prestanku mandata članice Odbora za pravosuđe Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1256"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1257.md",
+          "naslov": "Odluka o izboru člana i prestanku mandata članice Odbora za Hrvate izvan Republike Hrvatske Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1257"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1258.md",
+          "naslov": "Odluka o izboru članice i prestanku mandata članice Odbora za ravnopravnost spolova Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1258"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1259.md",
+          "naslov": "Odluka o izboru i prestanku mandata člana izaslanstva Hrvatskoga sabora u Parlamentarnoj skupštini Organizacije za europsku sigurnost i suradnju (OESS)",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1259"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1260.md",
+          "naslov": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva turizma i sporta",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1260"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1261.md",
+          "naslov": "Odluka o osnivanju Savjeta za Slavoniju, Baranju i Srijem, Savjeta za Sjever, Savjeta za Središnju Hrvatsku i Savjeta za Jadransku Hrvatsku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1261"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1263.md",
+          "naslov": "Odluka o izmjeni Odluke o financiranju troškova za stambeno zbrinjavanje raseljenih osoba iz Ukrajine u pojedinačnom smještaju",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1263"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1264.md",
+          "naslov": "Rješenje o imenovanju glavnog državnog inspektora Državnog inspektorata",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1264"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1265.md",
+          "naslov": "Rješenje o razrješenju državnog tajnika u Ministarstvu prostornoga uređenja, graditeljstva i državne imovine",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1265"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1266.md",
+          "naslov": "Rješenje o razrješenju zamjenika člana i imenovanju zamjenice člana Savjeta za razvoj civilnoga društva",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1266"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1267.md",
+          "naslov": "Rješenje o razrješenju i imenovanju člana Savjeta za nacionalne manjine",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1267"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1268.md",
+          "naslov": "Rješenje o razrješenju i imenovanju članova Upravnog vijeća Državne ergele Đakovo i Lipik",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1268"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1269.md",
+          "naslov": "Rješenje o razrješenju i imenovanju predsjednika Upravnog vijeća Kliničkog bolničkog centra Rijeka",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1269"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1270.md",
+          "naslov": "Pravilnik o načinu isticanja maloprodajne cijene i cijene za jedinicu mjere proizvoda",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1270"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1271.md",
+          "naslov": "Pravilnik o sadržaju i obliku Europskog obrasca za informacije o popravku robe",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1271"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1272.md",
+          "naslov": "Pravilnik o sadržaju i obliku obavijesti o pravu potrošača na jednostrani raskid ugovora sklopljenih na daljinu i ugovora sklopljenih izvan poslovnih prostorija",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1272"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1273.md",
+          "naslov": "Odluka o određivanju visine naknade za vođenje jedinstvenog računovodstva osobnih računa članova obveznih mirovinskih fondova",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1273"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1274.md",
+          "naslov": "Odluka o izdavanju zlatnih numizmatičkih kovanica i srebrne  numizmatičke kovanice  »Inovacije Ivana Vučetića«",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1274"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1275.md",
+          "naslov": "Odluka o izdavanju zlatnih i srebrnih numizmatičkih kovanica »Hrvatski ovčar«",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1275"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1276.md",
+          "naslov": "Odluka o izdavanju prigodne kovanice »Grad Vukovar«",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1276"
+        },
+        {
+          "file": "zakoni/2026/NN-105-1277.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-2027/2026 od 16. srpnja 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/105/1277"
         }
       ]
     },
