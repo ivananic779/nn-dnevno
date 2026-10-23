@@ -5,9 +5,9 @@ Dnevni pregled novih propisa objavljenih u službenom dijelu
 
 Ovdje se nalaze:
 
-- **`editions.json`**: popis brojeva NN, najnoviji prvi. Za svaki broj tu su datum objave i
-  `added_at` (kada je stigao ovamo), a za svaki propis naslov, vrsta, ELI poveznica i putanja
-  do datoteke.
+- **`editions.json`**: popis brojeva NN s datumom objave, a za svaki propis naslov, vrsta, ELI
+  poveznica, putanja do datoteke i `added_at` (kada je propis stigao ovamo). Na vrhu su
+  brojevi u koje je najnovije nešto stiglo.
 - **`zakoni/{godina}/NN-{broj}-{redni broj}.md`**: tekst svakog propisa u Markdownu, s
   metapodacima (naslov, ELI, vrsta, datumi, donositelj) u YAML zaglavlju.
 
@@ -16,7 +16,8 @@ Svako ažuriranje s novim propisima je jedan commit, s naslovima propisa u poruc
 ## Kako provjeriti ima li nešto novo
 
 - Popis: <https://raw.githubusercontent.com/ivananic779/nn-dnevno/main/editions.json>.
-  Najnoviji brojevi su na vrhu.
+  Novo je ono čiji je `added_at` nakon zadnje provjere. Gledajte `added_at`, ne datum objave:
+  NN propis ponekad isprva objavi bez teksta, pa on ovdje stigne dan-dva nakon svog broja.
 - Commitovi kao Atom feed: <https://github.com/ivananic779/nn-dnevno/commits/main.atom>
 - Tekst propisa: `https://raw.githubusercontent.com/ivananic779/nn-dnevno/main/` + vrijednost
   `file` iz `editions.json`, npr.
