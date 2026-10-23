@@ -1,7 +1,34 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-10-23T11:50:38+00:00",
+  "updated_at": "2026-10-23T13:06:09+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 121/2026",
+      "datum_objave": "2026-10-23",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-121-1438.md",
+          "naslov": "Odluka o davanju prethodne suglasnosti za potvrđivanje Četvrte revizije Programa razgradnje Nuklearne elektrane Krško i Četvrte revizije Programa odlaganja radioaktivnog otpada (RAO) i istrošenoga nuklearnog goriva (ING) Nuklearne elektrane Krško",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1438",
+          "added_at": "2026-10-23T13:06:09+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1443.md",
+          "naslov": "Odluka o donošenju Akcijskog plana za provedbu Nacionalnog plana upravljanja željezničkom infrastrukturom i uslužnim objektima i razvoja usluga željezničkog prijevoza za razdoblje do 2030. godine, za razdoblje do 2027. godine",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1443",
+          "added_at": "2026-10-23T13:06:09+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1444.md",
+          "naslov": "Odluka o izmjeni i dopuni Odluke o osnivanju, sjedištu i području na kojima djeluju područni carinski uredi, carinski uredi i granični carinski uredi Ministarstva financija, Carinske uprave",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1444",
+          "added_at": "2026-10-23T13:06:09+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 118/2026",
       "datum_objave": "2026-10-16",
