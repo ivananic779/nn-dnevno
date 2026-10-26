@@ -1,6 +1,6 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-10-23T13:06:09+00:00",
+  "updated_at": "2026-10-26T14:51:23+00:00",
   "editions": [
     {
       "nn_broj": "NN 121/2026",
@@ -26,6 +26,76 @@
           "vrsta": "ODLUKA",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1444",
           "added_at": "2026-10-23T13:06:09+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1434.md",
+          "naslov": "Odluka o izboru potpredsjednika Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1434",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1435.md",
+          "naslov": "Odluka o razrješenju i izboru predsjednika Odbora za pravosuđe Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1435",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1436.md",
+          "naslov": "Odluka o razrješenju i izboru člana Odbora za zaštitu okoliša i prirode Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1436",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1437.md",
+          "naslov": "Odluka o razrješenju i izboru članice Odbora za poljoprivredu Hrvatskoga sabora",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1437",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1439.md",
+          "naslov": "Odluka o potvrđivanju Godišnjih financijskih izvještaja Hrvatske banke za obnovu i razvitak za 2025. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1439",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1440.md",
+          "naslov": "Odluka o davanju prethodne suglasnosti na Prijedlog statuta Agencije za medije",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1440",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1441.md",
+          "naslov": "Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1441",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1442.md",
+          "naslov": "Odluka o donošenju Akcijskog plana za provedbu Nacionalnog plana razvoja željezničke infrastrukture za razdoblje do 2030. godine, za razdoblje do 2027. godine",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1442",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1445.md",
+          "naslov": "Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Jurjevac Punitovački",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1445",
+          "added_at": "2026-10-26T14:51:23+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-121-1446.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-730/2026 od 16. rujna 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/121/1446",
+          "added_at": "2026-10-26T14:51:23+00:00"
         }
       ]
     },
