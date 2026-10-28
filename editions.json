@@ -1,7 +1,20 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-10-27T13:57:31+00:00",
+  "updated_at": "2026-10-28T14:53:54+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 123/2026",
+      "datum_objave": "2026-10-28",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-123-1480.md",
+          "naslov": "Pravilnik o izmjenama i dopunama Pravilnika o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova obveznog mirovinskog fonda",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1480",
+          "added_at": "2026-10-28T14:53:54+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 122/2026",
       "datum_objave": "2026-10-26",
