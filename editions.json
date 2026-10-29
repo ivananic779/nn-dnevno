@@ -1,6 +1,6 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-10-28T14:53:54+00:00",
+  "updated_at": "2026-10-29T14:58:01+00:00",
   "editions": [
     {
       "nn_broj": "NN 123/2026",
@@ -12,6 +12,111 @@
           "vrsta": "PRAVILNIK",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1480",
           "added_at": "2026-10-28T14:53:54+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1465.md",
+          "naslov": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1465",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1466.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za razvoj kulture i umjetnosti u Ministarstvu kulture i medija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1466",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1467.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za međunarodnu kulturnu suradnju i europske poslove u  Ministarstvu kulture i medija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1467",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1468.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za arhive, knjižnice i muzeje u Ministarstvu kulture i medija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1468",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1469.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za medije i razvoj kulturnih i kreativnih industrija u Ministarstvu kulture i medija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1469",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1470.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za zaštitu kulturne baštine u Ministarstvu kulture i medija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1470",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1471.md",
+          "naslov": "Rješenje o imenovanju glavne tajnice Ministarstva kulture i medija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1471",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1472.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za proračun i financije  u Ministarstvu mora, prometa i infrastrukture",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1472",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1473.md",
+          "naslov": "Rješenje o imenovanju glavnog inspektora Inspektorata sigurnosti cestovnog prometa i cesta u Ministarstvu mora, prometa i infrastrukture",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1473",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1474.md",
+          "naslov": "Rješenje o razrješenju i imenovanju članice Upravnog vijeća Agencije za obalni linijski pomorski promet",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1474",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1475.md",
+          "naslov": "Rješenje o razrješenju i imenovanju članice Upravnog vijeća Centra za regionalne aktivnosti Programa prioritetnih akcija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1475",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1476.md",
+          "naslov": "Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za pružanje socijalnih usluga",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1476",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1477.md",
+          "naslov": "Pravilnik o tržišnim standardima za meso peradi",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1477",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1478.md",
+          "naslov": "Pravilnik o vremenu otvorenosti aerodroma",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1478",
+          "added_at": "2026-10-29T14:58:01+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-123-1479.md",
+          "naslov": "Pravilnik o nazivu i vizualnom identitetu elektroničkog sustava naplate cestarine u Republici Hrvatskoj",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/123/1479",
+          "added_at": "2026-10-29T14:58:01+00:00"
         }
       ]
     },
