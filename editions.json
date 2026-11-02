@@ -1,7 +1,55 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-10-29T14:58:01+00:00",
+  "updated_at": "2026-11-02T17:46:35+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 124/2026",
+      "datum_objave": "2026-10-30",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-124-1481.md",
+          "naslov": "Uredba o visini minimalne plaće za 2027. godinu",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/124/1481",
+          "added_at": "2026-11-02T17:46:35+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-124-1482.md",
+          "naslov": "Odluka o razvrstavanju javnih cesta",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/124/1482",
+          "added_at": "2026-11-02T17:46:35+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-124-1483.md",
+          "naslov": "Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/124/1483",
+          "added_at": "2026-11-02T17:46:35+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-124-1484.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-2604/2026 od 30. rujna 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/124/1484",
+          "added_at": "2026-11-02T17:46:35+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-124-1485.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-35/2025-8 od 6. listopada 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/124/1485",
+          "added_at": "2026-11-02T17:46:35+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-124-1486.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Us II-51/2026-10 od 7. listopada 2026.",
+          "vrsta": "",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/124/1486",
+          "added_at": "2026-11-02T17:46:35+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 123/2026",
       "datum_objave": "2026-10-28",
