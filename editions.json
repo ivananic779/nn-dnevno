@@ -1,7 +1,145 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-02T17:46:35+00:00",
+  "updated_at": "2026-11-03T15:51:03+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 126/2026",
+      "datum_objave": "2026-11-03",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-126-1494.md",
+          "naslov": "Izmjene i dopune Državnog proračuna Republike Hrvatske za 2026. godinu i projekcija za 2027. i 2028. godinu",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1494",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1495.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1495",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1496.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1496",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1497.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1497",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1498.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatske agencije za osiguranje depozita za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1498",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1499.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zdravstveno osiguranje za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1499",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1500.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Centra za restrukturiranje i prodaju za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1500",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1501.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih autocesta za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1501",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1502.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1502",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1503.md",
+          "naslov": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1503",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-126-1504.md",
+          "naslov": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1504",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        }
+      ]
+    },
+    {
+      "nn_broj": "NN 125/2026",
+      "datum_objave": "2026-11-02",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-125-1487.md",
+          "naslov": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1487",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-125-1488.md",
+          "naslov": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1488",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-125-1489.md",
+          "naslov": "Odluka o proglašenju Dana nacionalne sućuti u povodu smrti Mate Miše Kovača",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1489",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-125-1490.md",
+          "naslov": "Pravilnik o Upisniku regionalnih koordinatora i lokalnih razvojnih agencija",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1490",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-125-1491.md",
+          "naslov": "Statut Agencije za medije",
+          "vrsta": "STATUT",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1491",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-125-1492.md",
+          "naslov": "Odluka Ustavnog suda Republike Hrvatske broj: U-III- 2806/2025 od 23. rujna 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1492",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-125-1493.md",
+          "naslov": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-184/2020 i U-III-185/2020 od 30. rujna 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1493",
+          "added_at": "2026-11-03T15:51:03+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 124/2026",
       "datum_objave": "2026-10-30",
