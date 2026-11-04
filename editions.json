@@ -1,7 +1,20 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-03T15:51:03+00:00",
+  "updated_at": "2026-11-04T15:59:34+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 127/2026",
+      "datum_objave": "2026-11-04",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-127-1514.md",
+          "naslov": "Pravilnik o izmjeni Pravilnika o plombiranju i postupanju s privremeno oduzetim predmetima i lako pokvarljivim proizvodima ribarstva i akvakulture kojima je počinjen prekršaj",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1514",
+          "added_at": "2026-11-04T15:59:34+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 126/2026",
       "datum_objave": "2026-11-03",
