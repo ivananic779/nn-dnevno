@@ -1,7 +1,27 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-04T15:59:34+00:00",
+  "updated_at": "2026-11-06T15:38:50+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 128/2026",
+      "datum_objave": "2026-11-06",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-128-1515.md",
+          "naslov": "Zakon o provedbi Uredbe (EU) 2023/1230 Europskog parlamenta i Vijeća od 14. lipnja 2023. o strojevima te stavljanju izvan snage Direktive 2006/42/EZ Europskog parlamenta i Vijeća i Direktive Vijeća 73/361/EEZ",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1515",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1520.md",
+          "naslov": "Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1520",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 127/2026",
       "datum_objave": "2026-11-04",
@@ -12,6 +32,69 @@
           "vrsta": "PRAVILNIK",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1514",
           "added_at": "2026-11-04T15:59:34+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1505.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda Nikole Šubića Zrinskog, za junački čin u Domovinskom ratu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1505",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1506.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog križa, za teško ranjavanje u Domovinskom ratu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1506",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1507.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog trolista, za osobite zasluge za Republiku Hrvatsku stečene u ratu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1507",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1508.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog trolista, za osobite zasluge za Republiku Hrvatsku stečene u ratu, izravnoj ratnoj opasnosti ili u iznimnim okolnostima u miru",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1508",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1509.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog pletera, za osobiti doprinos razvitku i ugledu Republike Hrvatske i dobrobiti njezinih građana",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1509",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1510.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog pletera, za osobiti doprinos razvitku i ugledu Republike Hrvatske i dobrobiti njezinih građana",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1510",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1511.md",
+          "naslov": "Odluka o dodjeli odlikovanja Spomenica domovinske zahvalnosti, za časnu i uzornu službu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1511",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1512.md",
+          "naslov": "Odluka o ispravku Odluke o dodjeli odlikovanja Reda hrvatskog križa klasa: 060-03/26-15/02, urbroj: 71-03-01-26-03 od 1. srpnja 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1512",
+          "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-127-1513.md",
+          "naslov": "Odluka o visini nagrade miriteljima u postupcima mirenja u kolektivnim radnim sporovima koji se financiraju iz sredstava državnog proračuna u 2027. godini",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/127/1513",
+          "added_at": "2026-11-06T15:38:50+00:00"
         }
       ]
     },
