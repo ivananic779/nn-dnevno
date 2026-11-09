@@ -1,6 +1,6 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-06T15:38:50+00:00",
+  "updated_at": "2026-11-09T18:17:56+00:00",
   "editions": [
     {
       "nn_broj": "NN 128/2026",
@@ -19,6 +19,83 @@
           "vrsta": "ODLUKA",
           "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1520",
           "added_at": "2026-11-06T15:38:50+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1516.md",
+          "naslov": "Zakon o provedbi Uredbe (EU) 2023/956 Europskog parlamenta i Vijeća od 10. svibnja 2023. o uspostavi mehanizma za ugljičnu prilagodbu na granicama",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1516",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1517.md",
+          "naslov": "Zakon o izmjenama i dopuni Zakona o osobama nestalim u Domovinskom ratu",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1517",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1518.md",
+          "naslov": "Zakon o izmjenama i dopunama Zakona o lovstvu",
+          "vrsta": "ZAKON",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1518",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1519.md",
+          "naslov": "Uredba o unutarnjem ustrojstvu Državne geodetske uprave",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1519",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1521.md",
+          "naslov": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2026. godini",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1521",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1522.md",
+          "naslov": "Pravilnik o provedbi Programa potpore za provedbu jesenske sjetve u 2026. godini",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1522",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1523.md",
+          "naslov": "Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz  reda zamjenika državnih odvjetnika",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1523",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1524.md",
+          "naslov": "Odluka o naknadi za razvoj na uslužnom području 19 društva Vodovod zapadne Slavonije d.o.o.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1524",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1525.md",
+          "naslov": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-4227/2022 od 30. rujna 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1525",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1526.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-1211/2026 od 8. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1526",
+          "added_at": "2026-11-09T18:17:56+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-128-1527.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-7/2024-7 (spojen Usoz-142/2024) od 26. listopada 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/128/1527",
+          "added_at": "2026-11-09T18:17:56+00:00"
         }
       ]
     },
