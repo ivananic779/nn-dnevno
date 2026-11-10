@@ -1,7 +1,48 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-09T18:17:56+00:00",
+  "updated_at": "2026-11-10T16:04:46+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 129/2026",
+      "datum_objave": "2026-11-09",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-129-1528.md",
+          "naslov": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/129/1528",
+          "added_at": "2026-11-10T16:04:46+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-129-1529.md",
+          "naslov": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/129/1529",
+          "added_at": "2026-11-10T16:04:46+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-129-1530.md",
+          "naslov": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi Programa državne potpore za kompenzaciju smanjene vrijednosti tovnih svinja isporučenih na klanje iz zone ograničenja III uslijed primjene posebnih mjera za kontrolu afričke svinjske kuge",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/129/1530",
+          "added_at": "2026-11-10T16:04:46+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-129-1531.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-251/2025-6 od 26. listopada 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/129/1531",
+          "added_at": "2026-11-10T16:04:46+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-129-1532.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-20/2026-8 od 26. listopada 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/129/1532",
+          "added_at": "2026-11-10T16:04:46+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 128/2026",
       "datum_objave": "2026-11-06",
