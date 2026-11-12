@@ -1,7 +1,83 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-10T16:04:46+00:00",
+  "updated_at": "2026-11-12T16:34:44+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 130/2026",
+      "datum_objave": "2026-11-11",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-130-1533.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Kula Norinska za dio katastarske općine Desne",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1533",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1534.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Supetar za dio  katastarske općine Sutivan",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1534",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1535.md",
+          "naslov": "Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1535",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1536.md",
+          "naslov": "Odluka Agencije za medije klasa: 614-03/26-02/11, urbroj: 114-03/04-26-02 od 29. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1536",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1537.md",
+          "naslov": "Odluka Agencije za medije klasa: 614-03/26-02/13, urbroj: 114-03/04-26-02 od 29. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1537",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1538.md",
+          "naslov": "Odluka Agencije za medije klasa: 614-03/26-02/10, urbroj: 114-03/04-26-02 od 29. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1538",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1539.md",
+          "naslov": "Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencije za mrežne djelatnosti",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1539",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1540.md",
+          "naslov": "Pravilnik o postupku utvrđivanja i izdavanja uvjeta priključenja na elektroničku komunikacijsku infrastrukturu i mrežu",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1540",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1541.md",
+          "naslov": "Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-2839/2026 od 22. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1541",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-130-1542.md",
+          "naslov": "Presuda Visokog upravnog suda Republike Hrvatske poslovni broj: Usoz-92/2026-6 od 26. listopada 2026.",
+          "vrsta": "PRESUDA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/130/1542",
+          "added_at": "2026-11-12T16:34:44+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 129/2026",
       "datum_objave": "2026-11-09",
