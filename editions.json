@@ -1,7 +1,230 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-12T16:34:44+00:00",
+  "updated_at": "2026-11-16T17:52:40+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 131/2026",
+      "datum_objave": "2026-11-13",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-131-1543.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda kneza Trpimira s ogrlicom i Danicom Filipu (Pero) Hrgoviću",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1543",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1544.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda Danice hrvatske s likom Marka Marulića, za osobiti doprinos u promicanju hrvatske kulture, civilizacije i književnosti u Kraljevini Španjolskoj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1544",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1545.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda Danice hrvatske s likom Ruđera Boškovića izv. prof. dr. sc. Dariu (Boris) Raheliću",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1545",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1546.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda Danice hrvatske s likom Franje Bučara Đurđici (Đuro) Gabrilo",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1546",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1547.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda Danice hrvatske s likom Antuna Radića Zoranu (Boško) Hercigonji",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1547",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1548.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog pletera Nedjeljku (Ivan) Jusupu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1548",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1549.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog pletera Marijanu (Hrvoje) Maroji",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1549",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1550.md",
+          "naslov": "Odluka o dodjeli odlikovanja Reda hrvatskog pletera Vesni (Jerko) Milković",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1550",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1551.md",
+          "naslov": "Odluka o dodjeli priznanja Povelja Republike Hrvatske Liječničkom vjesniku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1551",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1552.md",
+          "naslov": "Odluka o dodjeli priznanja Povelja Republike Hrvatske Hrvatskom plivačkom savezu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1552",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1553.md",
+          "naslov": "Odluka o ispravku Odluke o dodjeli odlikovanja Red Danice Hrvatske s likom Katarine Zrinske, klasa: 060-03/25-14/08, urbroj: 71-05-01/4-25-01 od 24. listopada 2025.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1553",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1554.md",
+          "naslov": "Odluka o donošenju Akcijskog plana za provedbu Nacionalnog plana razvoja sustava obrazovanja za razdoblje do 2027. godine, za razdoblje do kraja 2027. godine",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1554",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1555.md",
+          "naslov": "Rješenje o razrješenju ravnatelja Uprave za cestovni promet, cestovnu infrastrukturu i inspekciju u Ministarstvu mora, prometa i infrastrukture",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1555",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1556.md",
+          "naslov": "Rješenje o imenovanju ravnatelja Uprave za cestovni promet i cestovnu infrastrukturu u Ministarstvu mora, prometa i infrastrukture",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1556",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1557.md",
+          "naslov": "Rješenje o razrješenju ravnateljice Uprave za željezničku infrastrukturu i promet u Ministarstvu mora, prometa i infrastrukture",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1557",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1558.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za željezničku infrastrukturu i promet u Ministarstvu mora, prometa i infrastrukture",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1558",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1559.md",
+          "naslov": "Rješenje o razrješenju ravnatelja Ureda za ljudska prava i prava nacionalnih manjina",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1559",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1560.md",
+          "naslov": "Rješenje o razrješenju ravnateljice Ureda Vlade Republike Hrvatske za unutarnju reviziju",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1560",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1561.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za gospodarstvo i financijski sustav u Ministarstvu financija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1561",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1562.md",
+          "naslov": "Rješenje o imenovanju ravnatelja Uprave za upravljanje javnim dugom u Ministarstvu financija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1562",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1563.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Zavoda za makroekonomske analize i planiranje u Ministarstvu financija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1563",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1564.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za Europsku uniju i međunarodne financijske odnose u Ministarstvu financija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1564",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1565.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za procese Državne riznice koji se odnose na pripremu državnog proračuna te podršku sustavu financiranja jedinica lokalne i područne (regionalne) samouprave u Ministarstvu financija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1565",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1566.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za procese Državne riznice koji se odnose na izvršavanje i jedinstveni račun proračuna u Ministarstvu financija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1566",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1567.md",
+          "naslov": "Rješenje o imenovanju glavnog financijskog inspektora u Ministarstvu financija",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1567",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1568.md",
+          "naslov": "Rješenje o razrješenju i imenovanju članice Upravnog vijeća Neuropsihijatrijske bolnice Dr. Ivan Barbot Popovača",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1568",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1569.md",
+          "naslov": "Rješenje o razrješenju predsjednice i članice i imenovanju predsjednika i  član ice Upravnog vijeća Županijske bolnice Čakovec",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1569",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1570.md",
+          "naslov": "Rješenje o razrješenju ravnatelja Uprave za  ljudske potencijale u Ministarstvu unutarnjih poslova",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1570",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1571.md",
+          "naslov": "Rješenje o imenovanju ravnateljice Uprave za podršku i osnaživanje mladih u Ministarstvu znanosti, obrazovanja i mladih",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1571",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1572.md",
+          "naslov": "Odluka o izmjenama i dopunama Odluke o provođenju operacija monetarne politike",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1572",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-131-1573.md",
+          "naslov": "Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-66/2024 od 22. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/131/1573",
+          "added_at": "2026-11-16T17:52:40+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 130/2026",
       "datum_objave": "2026-11-11",
