@@ -1,7 +1,132 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-16T17:52:40+00:00",
+  "updated_at": "2026-11-17T17:22:20+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 132/2026",
+      "datum_objave": "2026-11-16",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-132-1574.md",
+          "naslov": "Odluka o zatvaranju Konzulata Republike Hrvatske u Republici Sjevernoj Makedoniji, sa sjedištem u Strumici",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1574",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1575.md",
+          "naslov": "Odluka o opozivu počasne konzulice Republike Hrvatske u Republici Sjevernoj Makedoniji, sa sjedištem u Strumici",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1575",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1576.md",
+          "naslov": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1576",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1577.md",
+          "naslov": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1577",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1578.md",
+          "naslov": "Odluka o prestanku važenja Odluke o objavi cjenika i isticanju dodatne cijene kao mjera izravne kontrole cijena u trgovini na malo",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1578",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1579.md",
+          "naslov": "Odluka o prestanku važenja Odluke o isticanju dodatne cijene kao mjera izravne kontrole cijena",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1579",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1580.md",
+          "naslov": "Odluka o prestanku važenja Odluke o objavi cjenika proizvoda i usluga kao mjera izravne kontrole cijena",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1580",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1581.md",
+          "naslov": "Odluka o raspisivanju prijevremenih izbora za gradonačelnika Grada Buja – Buie",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1581",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1582.md",
+          "naslov": "Rješenje o imenovanju povjerenika Vlade Republike Hrvatske  za obavljanje poslova iz nadležnosti gradonačelnika Grada Buja – Buie",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1582",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1583.md",
+          "naslov": "Pravilnik o isticanju bazne cijene proizvoda",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1583",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1584.md",
+          "naslov": "Pravilnik o načinu objave cjenika proizvoda",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1584",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1585.md",
+          "naslov": "Obvezatne upute broj LN I o redoslijedu izbornih radnji i tijeku rokova na prijevremenim izborima za gradonačelnika Grada Buja – Buie",
+          "vrsta": "UPUTA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1585",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1586.md",
+          "naslov": "Obvezatne upute broj LN II o obrascima za postupak kandidiranja i primjeni obvezatnih uputa i obrazaca na prijevremenim izborima za gradonačelnika Grada Buja – Buie",
+          "vrsta": "UPUTA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1586",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1587.md",
+          "naslov": "Obvezatne upute broj LN III o imenovanju članova proširenih sastava izbornih povjerenstava za provedbu prijevremenih izbora za gradonačelnika Grada Buja – Buie",
+          "vrsta": "UPUTA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1587",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1588.md",
+          "naslov": "Obvezatne upute broj LN IV o imenovanju članova biračkih odbora za provedbu prijevremenih izbora za gradonačelnika Grada Buja – Buie",
+          "vrsta": "UPUTA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1588",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1589.md",
+          "naslov": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2319/2023 od 22. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1589",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-132-1590.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-2931/2026 od 22. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/132/1590",
+          "added_at": "2026-11-17T17:22:20+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 131/2026",
       "datum_objave": "2026-11-13",
