@@ -1,7 +1,62 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-17T17:22:20+00:00",
+  "updated_at": "2026-11-23T19:56:13+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 134/2026",
+      "datum_objave": "2026-11-20",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-134-1601.md",
+          "naslov": "Etički kodeks službenika i namještenika u lokalnoj i područnoj (regionalnoj) samoupravi",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/134/1601",
+          "added_at": "2026-11-23T19:56:13+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-134-1602.md",
+          "naslov": "Rješenje o imenovanju lučkog kapetana - I. vrste Lučke kapetanije Ploče u Upravi sigurnosti plovidbe u Ministarstvu mora, prometa i infrastrukture",
+          "vrsta": "RJEŠENJE",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/134/1602",
+          "added_at": "2026-11-23T19:56:13+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-134-1603.md",
+          "naslov": "Pravilnik o izmjeni  Pravilnika o dodacima  na plaću djelatnih vojnih osoba",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/134/1603",
+          "added_at": "2026-11-23T19:56:13+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-134-1604.md",
+          "naslov": "Indeks proizvođačkih cijena industrijskih proizvoda na domaćem tržištu u listopadu 2026.",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/134/1604",
+          "added_at": "2026-11-23T19:56:13+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-134-1605.md",
+          "naslov": "Indeks potrošačkih cijena u listopadu 2026.",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/134/1605",
+          "added_at": "2026-11-23T19:56:13+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-134-1606.md",
+          "naslov": "Odluka Agencije za medije klasa: UP/I-614-03/26-02/04, urbroj: 114-03/04-26-2 od 6. studenoga 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/134/1606",
+          "added_at": "2026-11-23T19:56:13+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-134-1607.md",
+          "naslov": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-IIIA-3340/2025 od 22. listopada 2026.",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/134/1607",
+          "added_at": "2026-11-23T19:56:13+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 132/2026",
       "datum_objave": "2026-11-16",
