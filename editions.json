@@ -1,7 +1,531 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-23T19:56:13+00:00",
+  "updated_at": "2026-11-24T19:31:16+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 135/2026",
+      "datum_objave": "2026-11-23",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-135-1608.md",
+          "naslov": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1608",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1609.md",
+          "naslov": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+          "vrsta": "UREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1609",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1610.md",
+          "naslov": "Pravilnik o provedbi nadzora robe s dvojnom namjenom",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1610",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1611.md",
+          "naslov": "Pravilnik o izmjeni i dopuni Pravilnika o sigurnosti igračaka",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1611",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1612.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Dicmo za dio katastarske općine Kraj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1612",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1613.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Dicmo za dio katastarske općine Prisoje",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1613",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1614.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Trilja za dio katastarske općine Vojnić Sinjski",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1614",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1615.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Omiša za dio katastarske općine Slime",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1615",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1616.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Omiša za dio  katastarske općine Kostanje",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1616",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1617.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Imotskog za dio katastarske općine Vinjani",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1617",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1618.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Lovreć za dio katastarske općine Studenci",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1618",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1619.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Klis za dio katastarske općine Vučevica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1619",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1620.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Klis za dio katastarske općine Klis",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1620",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1621.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Podbablje za dio katastarske općine Poljica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1621",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1622.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Podbablje za dio katastarske općine Podbablje",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1622",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1623.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Muć za dio katastarske općine Donji Muć",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1623",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1624.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Šestanovac za dio katastarske općine Kreševo",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1624",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1625.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Postira za dijelove katastarskih općina Postira i Dol",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1625",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1626.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Novog Marofa za dijelove katastarskih općina Grana, Donje Makojišće i Gornja Rijeka",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1626",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1627.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Varaždinskih Toplica za dio katastarske općine Svibovec",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1627",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1628.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Ljubešćica za dio katastarske općine Ljubešćica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1628",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1629.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Ivanca za dio katastarske općine Radovan",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1629",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1630.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Beretinec za dijelove katastarskih općina Beretinec i Črešnjevo",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1630",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1631.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Preko za dio katastarske općine Sestrunj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1631",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1632.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Polača za dijelove katastarskih općina Donja Jagodnja i Polača",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1632",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1633.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Sali za dio katastarske općine Brbinj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1633",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1634.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Sali za dio katastarske općine Savar",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1634",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1635.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Sali za dio katastarske općine Zverinac",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1635",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1636.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Žakanje za dijelove katastarskih općina Bubnjarci, Jurovo i Žakanje",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1636",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1637.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Cetingrad za dio katastarske općine Cetinski Varoš",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1637",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1638.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Cetingrad za dio katastarske općine Ponor",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1638",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1639.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Slunja za dijelove katastarskih općina Popovac, Donji Lađevac i Slunj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1639",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1640.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Zlatara za dijelove katastarskih općina Zlatar i Martinci Zlatarski",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1640",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1641.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Lobor za dio katastarske općine Vojnovec Loborski",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1641",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1642.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Radoboj za dio katastarske općine Šemnica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1642",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1643.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Veliko Trgovišće za dio katastarske općine Veliko Trgovišće",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1643",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1644.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Marija Bistrica za dijelove katastarskih općina Laz Bistrički i Sveti Matej",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1644",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1645.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Marija Gorica  za dio katastarske općine Kraj",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1645",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1646.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Pokupsko za dio katastarske općine Lukinić Brdo",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1646",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1647.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Vrbovca za dio katastarske općine Lonjica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1647",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1648.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Čačinci za dio katastarske općine Slatinski Drenovac",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1648",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1649.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Kula Norinska za dio katastarske općine Desne",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1649",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1650.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Orebić za dio katastarske općine Stanković",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1650",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1651.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Korčule za dijelove katastarskih općina Korčula i Žrnovo",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1651",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1652.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Preloga za dio katastarske općine Prelog",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1652",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1653.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Gline za dio katastarske općine Šatornja",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1653",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1654.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Lekenik za dio katastarske općine Letovanić",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1654",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1655.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Hrvatska Kostajnica za dio katastarske općine Kostajnica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1655",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1656.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Topusko za dio katastarske općine Gređani",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1656",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1657.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Martinska Ves  za dijelove katastarskih općina Bok Palanječki i Sisak Stari",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1657",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1658.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Unešić za dio katastarske općine Unešić",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1658",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1659.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Šibenika za dio katastarske općine Dubrava",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1659",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1660.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Lanišće za dio katastarske općine Lanišće",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1660",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1661.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Donja Motičina za dio katastarske općine Seona",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1661",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1662.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Ernestinovo za dio katastarske općine Orlovnjak",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1662",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1663.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Đakova za dio katastarske općine Novi Perkovci",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1663",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1664.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Peteranec za dio katastarske općine Peteranec",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1664",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1665.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Rasinja za dio katastarske općine Rasinja",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1665",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1666.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Gola za dio katastarske općine Novačka",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1666",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1667.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Lovinac za dio katastarske općine Lovinac",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1667",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1668.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Brinje za dio katastarske općine Križpolje",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1668",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1669.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Gospića za dio katastarske općine Smiljan",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1669",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1670.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Sibinj  za dio katastarske općine Gromačnik",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1670",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1671.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Sibinj za dio katastarske općine Slobodnica",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1671",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1672.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Pleternice za dio katastarske općine Odvorci",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1672",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1673.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Pleternice za dio  katastarske općine Blacko",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1673",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1674.md",
+          "naslov": "Odluku o katastarskoj izmjeri na području Općine Brestovac za dio katastarske općine Gornji Gučani",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1674",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1675.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Brestovac za dio  katastarske općine Busnovi",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1675",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1676.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Zagreba za dio  katastarske općine Žitnjak",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1676",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1677.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Zagreba za  katastarsku općinu Vugrovec",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1677",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1678.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Zagreba za dio  katastarske općine Starjak",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1678",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1679.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Općine Lokve za dio katastarske općine Lokve",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1679",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1680.md",
+          "naslov": "Odluka o katastarskoj izmjeri na području Grada Vrbovskog za dijelove katastarskih općina Vrbovsko i Gomirsko Vrbovsko",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1680",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-135-1681.md",
+          "naslov": "Ispravak Pravilnika o standardima i načinu prijma specijalizanata",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/135/1681",
+          "added_at": "2026-11-24T19:31:16+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 134/2026",
       "datum_objave": "2026-11-20",
