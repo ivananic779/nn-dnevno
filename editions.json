@@ -1,7 +1,230 @@
 {
   "since": "2026-01-01",
-  "updated_at": "2026-11-24T19:31:16+00:00",
+  "updated_at": "2026-11-26T18:07:25+00:00",
   "editions": [
+    {
+      "nn_broj": "NN 136/2026",
+      "datum_objave": "2026-11-25",
+      "documents": [
+        {
+          "file": "zakoni/2026/NN-136-1682.md",
+          "naslov": "Pravilnik o provedbi Programa potpore za poljoprivredne sektore pogođene nepovoljnim klimatskim prilikama i prirodnim nepogodama u 2025. godini",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1682",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1683.md",
+          "naslov": "Naredba o izmjenama Naredbe o mjerama kontrole i sprječavanja kuge malih preživača u Republici Hrvatskoj",
+          "vrsta": "NAREDBA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1683",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1684.md",
+          "naslov": "Prosječna mjesečna isplaćena neto plaća i prosječna mjesečna bruto plaća po zaposlenome u pravnim osobama Republike Hrvatske za razdoblje siječanj – kolovoz 2026.",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1684",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1685.md",
+          "naslov": "Pravila o sadržaju, metodama i načinu provedbe psihološkog testiranja",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1685",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1686.md",
+          "naslov": "Pravila o načinu provođenja i ocjenjivanja pisane radnje kandidata za suca Vrhovnog suda Republike Hrvatske koji nisu pravosudni dužnosnici te načinu provođenja i ocjenjivanja razgovora kandidata za suca Vrhovnog suda Republike Hrvatske",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1686",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1687.md",
+          "naslov": "Pravila o vrednovanju kandidata u postupku imenovanja sudaca prvostupanjskih sudova",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1687",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1688.md",
+          "naslov": "Pravila o vrednovanju kandidata u postupku imenovanja sudaca visokih i županijskih sudova",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1688",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1689.md",
+          "naslov": "Pravila o izmjeni Pravila o sadržaju obrasca izvješća o imovini suca i načinu njegova podnošenja",
+          "vrsta": "OSTALO",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1689",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1690.md",
+          "naslov": "Odluka o imenovanju zamjenice županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Karlovcu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1690",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1691.md",
+          "naslov": "Odluka o imenovanju zamjenika županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Osijeku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1691",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1692.md",
+          "naslov": "Odluka o imenovanju zamjenice županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Rijeci",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1692",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1693.md",
+          "naslov": "Odluka o imenovanju zamjenice županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Velikoj Gorici",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1693",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1694.md",
+          "naslov": "Odluka o imenovanju zamjenica županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Zagrebu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1694",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1695.md",
+          "naslov": "Odluka o imenovanju zamjenica općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Osijeku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1695",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1696.md",
+          "naslov": "Odluka o imenovanju zamjenice općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Požegi",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1696",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1697.md",
+          "naslov": "Odluka o imenovanju zamjenika općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Rijeci",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1697",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1698.md",
+          "naslov": "Odluka o imenovanju zamjenice općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Sisku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1698",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1699.md",
+          "naslov": "Odluka o imenovanju zamjenika općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Splitu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1699",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1700.md",
+          "naslov": "Odluka o imenovanju zamjenice općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Šibeniku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1700",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1701.md",
+          "naslov": "Odluka o imenovanju zamjenika općinskog državnog odvjetnika u Općinskom građanskom državnom odvjetništvu u Zagrebu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1701",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1702.md",
+          "naslov": "Odluka o imenovanju zamjenika općinskog državnog odvjetnika u Općinskom građanskom državnom odvjetništvu u Zagrebu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1702",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1703.md",
+          "naslov": "Odluka o imenovanju zamjenica općinskog državnog odvjetnika u Općinskom kaznenom državnom odvjetništvu u Zagrebu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1703",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1704.md",
+          "naslov": "Odluka o razrješenju zamjenika županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Osijeku",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1704",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1705.md",
+          "naslov": "Odluka o razrješenju zamjenice županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Varaždinu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1705",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1706.md",
+          "naslov": "Odluka o razrješenju zamjenice županijskog državnog odvjetnika u Županijskom državnom odvjetništvu u Zagrebu",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1706",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1707.md",
+          "naslov": "Odluka o razrješenju zamjenice općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Velikoj Gorici",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1707",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1708.md",
+          "naslov": "Odluka o razrješenju zamjenice općinskog državnog odvjetnika u Općinskom državnom odvjetništvu u Virovitici",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1708",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1709.md",
+          "naslov": "Odluka o javnoj objavi informacija kreditnih institucija i podružnica kreditnih institucija",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1709",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1710.md",
+          "naslov": "Odluka o naknadi za superviziju kreditnih institucija",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1710",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1711.md",
+          "naslov": "Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju financijskih i dodatnih izvještaja društva za osiguranje odnosno društva za reosiguranje",
+          "vrsta": "PRAVILNIK",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1711",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        },
+        {
+          "file": "zakoni/2026/NN-136-1712.md",
+          "naslov": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Petrijanec",
+          "vrsta": "ODLUKA",
+          "eli": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/136/1712",
+          "added_at": "2026-11-26T18:07:25+00:00"
+        }
+      ]
+    },
     {
       "nn_broj": "NN 135/2026",
       "datum_objave": "2026-11-23",
